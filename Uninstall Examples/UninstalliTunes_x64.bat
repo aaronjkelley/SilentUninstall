@@ -1,0 +1,1 @@
+"C:\Program Files\iTunes\iTunes.exe" /Appmode=Setup /uninstall /uilevel=Silent /dontrestart
