@@ -1,1 +1,0 @@
-"C:\Program Files\AVG\AVG2013\avgmfapx.exe" /Appmode=Setup /uninstall /uilevel=Silent /dontrestart
