@@ -1,0 +1,1 @@
+"C:\Program Files\Program\Program\program.exe" /Appmode=Setup /uninstall /uilevel=Silent /dontrestart
