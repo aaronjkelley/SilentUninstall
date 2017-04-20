@@ -1,0 +1,2 @@
+# SilentUninstall
+Silently Uninstall Software
